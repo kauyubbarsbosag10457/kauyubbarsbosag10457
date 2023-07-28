@@ -64,7 +64,7 @@
       <li>Optimización de la biografía: Aprende a redactar una biografía que describa tu cuenta y atraiga a tu audiencia objetivo.</li>
       <li>Uso estratégico del enlace en la biografía: Aprende a aprovechar el enlace para dirigir a los visitantes a tu sitio web, blog o landing page relevante.</li>
     </ul>
-    <img src="imagen_perfil.jpg" alt="Foto de perfil impactante">
+    <img src="6 puntos importantes para una pagina exitosa en INSTAGRAM.jpg" alt="Foto de perfil impactante">
 
 <h2>Módulo 2: Contenido de Calidad y Coherente</h2>
     <p>En este módulo, descubrirás cómo generar contenido valioso que mantenga a tus seguidores interesados.</p>
