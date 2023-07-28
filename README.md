@@ -12,40 +12,40 @@
       padding: 0;
     }
 
-    header, main, footer {
+   header, main, footer {
       max-width: 800px;
       margin: 0 auto;
       padding: 20px;
     }
 
-    header h1 {
+  header h1 {
       font-size: 28px;
       font-weight: bold;
       margin-bottom: 10px;
     }
 
-    header p {
+  header p {
       font-size: 16px;
       margin-bottom: 20px;
     }
 
-    main h2 {
+  main h2 {
       font-size: 24px;
       font-weight: bold;
       margin-bottom: 10px;
     }
 
-    main h3 {
+  main h3 {
       font-size: 20px;
       font-weight: bold;
       margin-bottom: 10px;
     }
 
-    main ul {
+  main ul {
       margin-left: 20px;
     }
 
-    footer {
+  footer {
       text-align: center;
       font-size: 14px;
       color: #777;
@@ -85,7 +85,7 @@
   <section class="module">
     <h2>Módulo 2: Creación de un negocio en línea</h2>
 
-    <article>
+  <article>
       <h3>Lección 1: Definición de tu propuesta de valor única</h3>
       <ul>
         <li>Aprende a identificar y comunicar tu propuesta de valor única, destacando los beneficios y ventajas competitivas de tu negocio en línea.</li>
@@ -94,7 +94,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 2: Diseño y desarrollo de un sitio web atractivo</h3>
       <ul>
         <li>Aprende los principios básicos del diseño web y la experiencia del usuario (UX), como la usabilidad, la accesibilidad y la navegación intuitiva.</li>
@@ -103,7 +103,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 3: Optimización para motores de búsqueda (SEO) y estrategias de marketing digital (continuación)</h3>
       <ul>
         <li>Aprende los conceptos básicos de SEO (Search Engine Optimization) y cómo optimizar tu sitio web para mejorar su visibilidad en los motores de búsqueda.</li>
@@ -121,7 +121,7 @@
   <section class="module">
     <h2>Módulo 3: Marketing de afiliados y programas de recompensas</h2>
 
-    <article>
+  <article>
       <h3>Lección 1: Comprender el marketing de afiliados y cómo funciona</h3>
       <ul>
         <li>Aprende los conceptos básicos del marketing de afiliados y cómo puedes ganar dinero promocionando productos o servicios de otras personas.</li>
@@ -130,7 +130,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 2: Selección de programas de afiliados rentables</h3>
       <ul>
         <li>Aprende a evaluar la rentabilidad de los programas de afiliados y seleccionar los más adecuados para tu audiencia y nicho de mercado.</li>
@@ -139,7 +139,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 3: Creación de contenido persuasivo y estrategias de promoción</h3>
       <ul>
         <li>Aprende a crear contenido persuasivo que motive a tu audiencia a realizar una compra a través de tus enlaces de afiliados.</li>
@@ -154,7 +154,7 @@
   <section class="module">
     <h2>Módulo 4: Monetización de contenido</h2>
 
-    <article>
+  <article>
       <h3>Lección 1: Creación de contenido de calidad y atractivo</h3>
       <ul>
         <li>Aprende a crear contenido valioso y relevante para tu audiencia, ya sea a través de blogs, videos, podcasts u otros formatos.</li>
@@ -163,7 +163,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 2: Generación de tráfico y construcción de una audiencia</h3>
       <ul>
         <li>Aprende estrategias para generar tráfico a tu contenido, como SEO, marketing de contenidos, redes sociales y colaboraciones con otros creadores de contenido.</li>
@@ -177,7 +177,7 @@
   <section class="module">
     <h2>Módulo 4: Monetización de contenido</h2>
 
-    <article>
+  <article>
       <h3>Lección 1: Creación de contenido de calidad y atractivo</h3>
       <ul>
         <li>Aprende a crear contenido valioso y relevante para tu audiencia, ya sea a través de blogs, videos, podcasts u otros formatos.</li>
@@ -186,7 +186,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 2: Generación de tráfico y construcción de una audiencia</h3>
       <ul>
         <li>Aprende estrategias para generar tráfico a tu contenido, como SEO, marketing de contenidos, redes sociales y colaboraciones con otros creadores de contenido.</li>
@@ -195,7 +195,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 3: Diversificación de fuentes de ingresos a través de publicidad y patrocinios</h3>
       <ul>
         <li>Aprende a monetizar tu contenido a través de la publicidad en línea, como Google AdSense, y la participación en programas de publicidad nativa.</li>
@@ -210,7 +210,7 @@
   <section class="module">
     <h2>Módulo 5: Comercio electrónico y dropshipping</h2>
 
-    <article>
+  <article>
       <h3>Lección 1: Configuración de una tienda en línea exitosa</h3>
       <ul>
         <li>Aprende a seleccionar una plataforma de comercio electrónico adecuada para tu negocio, como Shopify, WooCommerce o Magento.</li>
@@ -219,7 +219,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 2: Gestión de inventario y logística</h3>
       <ul>
         <li>Aprende a gestionar el inventario de tu tienda en línea de manera eficiente, incluyendo la gestión de productos, el seguimiento de existencias y la gestión de devoluciones.</li>
@@ -228,7 +228,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 3: Estrategias de marketing para impulsar las ventas</h3>
       <ul>
         <li>Aprende estrategias de marketing efectivas para promocionar tu tienda en línea, como el SEO, el marketing de contenidos, la publicidad en línea y las redes sociales.</li>
@@ -243,7 +243,7 @@
   <section class="module">
     <h2>Módulo 6: Estrategias avanzadas de monetización</h2>
 
-    <article>
+  <article>
       <h3>Lección 1: Creación y venta de productos digitales</h3>
       <ul>
         <li>Aprende a crear y vender productos digitales, como ebooks, cursos en línea, plantillas y software.</li>
@@ -252,7 +252,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 2: Desarrollo de cursos en línea y membresías</h3>
       <ul>
         <li>Aprende a desarrollar cursos en línea y membresías para generar ingresos recurrentes y establecer una comunidad de seguidores.</li>
@@ -261,7 +261,7 @@
       </ul>
     </article>
 
-    <article>
+  <article>
       <h3>Lección 3: Exploración de oportunidades emergentes, como NFT y criptomonedas</h3>
       <ul>
         <li>Aprende sobre las oportunidades emergentes en el mundo digital, como los NFT (Tokens No Fungibles) y las
