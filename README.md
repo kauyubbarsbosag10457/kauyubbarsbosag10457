@@ -112,3 +112,79 @@
       <li>Optimización de la cantidad de hashtags: Aprende cuántos hashtags utilizar en tus publicaciones para obtener el mejor rendimiento.</li>
       <li>Monitoreo y actualización de hashtags: Descubre cómo evaluar el rendimiento de tus hashtags y ajustarlos según sea necesario.</li>
     </ul>
+
+    <!-- Módulo 7: Colaboración con Otros Creadores -->
+<div class="module">
+  <h2>Módulo 7: Colaboración con Otros Creadores</h2>
+  <p>Descubre cómo trabajar con otros creadores para aumentar tu audiencia y atraer nuevos seguidores.</p>
+  <h3>Lecciones:</h3>
+  <ol>
+    <li>Identificación de colaboradores potenciales: Aprende a encontrar creadores con audiencias similares para colaborar.</li>
+    <li>Estrategias de colaboración: Descubre diferentes formas de colaborar, como menciones cruzadas, publicaciones conjuntas y más.</li>
+    <li>Seguimiento y medición de resultados: Aprende a evaluar el impacto de las colaboraciones en el crecimiento de seguidores.</li>
+  </ol>
+  <div class="image-section">
+    <img src="colaboracion_creadores.jpg" alt="Colaboración con otros creadores">
+    <img src="medicion_resultados.jpg" alt="Medición de resultados de colaboraciones">
+  </div>
+</div>
+
+<!-- Módulo 8: Estrategias de Contenido -->
+<div class="module">
+  <h2>Módulo 8: Estrategias de Contenido</h2>
+  <p>Aprende cómo planificar y crear contenido estratégico para mantener a tu audiencia comprometida.</p>
+  <h3>Lecciones:</h3>
+  <ol>
+    <li>Planificación de contenido: Descubre cómo crear un calendario editorial para mantener una presencia constante en Instagram.</li>
+    <li>Tipos de contenido: Aprende sobre diferentes tipos de contenido, como fotos, videos, historias, reels y más.</li>
+    <li>Contenido interactivo: Descubre cómo involucrar a tu audiencia con encuestas, preguntas, cuestionarios y más.</li>
+  </ol>
+  <div class="image-section">
+    <img src="planificacion_contenido.jpg" alt="Planificación de contenido">
+    <img src="tipos_contenido.jpg" alt="Tipos de contenido en Instagram">
+
+    <img src="contenido_interactivo.jpg" alt="Contenido interactivo en Instagram">
+  </div>
+</div>
+
+<!-- Módulo 9: Análisis y Métricas -->
+<div class="module">
+  <h2>Módulo 9: Análisis y Métricas</h2>
+  <p>Aprende a analizar y medir el rendimiento de tu cuenta para tomar decisiones informadas.</p>
+  <h3>Lecciones:</h3>
+  <ol>
+    <li>Herramientas de análisis de Instagram: Descubre las herramientas nativas y externas para analizar tus estadísticas.</li>
+    <li>Interpretación de métricas: Aprende a interpretar datos como alcance, impresiones, engagement y más.</li>
+    <li>Optimización basada en resultados: Descubre cómo ajustar tu estrategia según los datos obtenidos.</li>
+  </ol>
+  <div class="image-section">
+    <img src="herramientas_analisis.jpg" alt="Herramientas de análisis de Instagram">
+    <img src="interpretacion_metricas.jpg" alt="Interpretación de métricas en Instagram">
+  </div>
+</div>
+
+<!-- Módulo 10: Mantenimiento y Crecimiento Continuo -->
+<div class="module">
+  <h2>Módulo 10: Mantenimiento y Crecimiento Continuo</h2>
+  <p>Aprende a mantener el impulso y continuar creciendo en Instagram a largo plazo.</p>
+  <h3>Lecciones:</h3>
+  <ol>
+    <li>Consistencia y perseverancia: Descubre cómo mantener una presencia constante y no desanimarte ante desafíos.</li>
+    <li>Actualización de estrategias: Aprende a adaptarte a los cambios en Instagram y en tu audiencia.</li>
+    <li>Fomentar la comunidad: Descubre cómo construir una comunidad comprometida y leal.</li>
+  </ol>
+  <div class="image-section">
+    <img src="consistencia_perseverancia.jpg" alt="Consistencia y perseverancia en Instagram">
+    <img src="fomentar_comunidad.jpg" alt="Fomentar la comunidad en Instagram">
+  </div>
+</div>
+
+<!-- Sección de Acciones -->
+<div class="actions-section">
+  <a href="#">Registrarse al Curso</a>
+  <a href="#">Contactar al Instructor</a>
+</div>
+
+</main>
+</body>
+</html>
