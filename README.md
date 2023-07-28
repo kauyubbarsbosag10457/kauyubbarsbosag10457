@@ -94,3 +94,62 @@
   </main>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cuestionario</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h2 {
+      margin-bottom: 10px;
+    }
+    p {
+      margin-top: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Cuestionario</h1>
+
+  <h2>Preguntas de Verdadero o Falso:</h2>
+  <ol>
+    <li>
+      <p>1. Instagram es una red social centrada en compartir imágenes y videos.</p>
+      <input type="radio" name="pregunta1" value="verdadero"> Verdadero
+      <input type="radio" name="pregunta1" value="falso"> Falso
+    </li>
+    <li>
+      <p>2. Los hashtags son palabras clave que se utilizan para categorizar el contenido en Instagram.</p>
+      <input type="radio" name="pregunta2" value="verdadero"> Verdadero
+      <input type="radio" name="pregunta2" value="falso"> Falso
+    </li>
+    <!-- Agrega más preguntas de verdadero o falso según tus necesidades -->
+
+  </ol>
+
+  <h2>Preguntas de Opción Múltiple:</h2>
+  <ol>
+    <li>
+      <p>1. ¿Cuál es el límite de caracteres para la biografía de un perfil de Instagram?</p>
+      <input type="radio" name="pregunta3" value="a"> a) 100 caracteres
+      <input type="radio" name="pregunta3" value="b"> b) 150 caracteres
+      <input type="radio" name="pregunta3" value="c"> c) 200 caracteres
+    </li>
+    <li>
+      <p>2. ¿Cuál de los siguientes elementos NO forma parte de la optimización del perfil en Instagram?</p>
+      <input type="radio" name="pregunta4" value="a"> a) Nombre de usuario relevante
+      <input type="radio" name="pregunta4" value="b"> b) Enlace al perfil en la biografía
+      <input type="radio" name="pregunta4" value="c"> c) Emoji en la foto de perfil
+    </li>
+    <!-- Agrega más preguntas de opción múltiple según tus necesidades -->
+  </ol>
+
+  <button type="submit">Enviar respuestas</button>
+</body>
+</html>
+
