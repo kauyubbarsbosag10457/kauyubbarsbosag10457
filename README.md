@@ -1,9 +1,8 @@
 
 <!DOCTYPE html>
-<!-- saved from url=(0057)https://learningstudioai.com/preview/d9hpveiTXvfPovRI2Bbh -->
 <html lang="en" data-lt-installed="true" class="js-focus-visible" data-js-focus-visible="" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-    <link rel="icon" type="image/svg+xml" href="https://learningstudioai.com/learningstudioai-icon.svg">
+    <link rel="icon" type="image/svg+xml" 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google" content="notranslate">
 
